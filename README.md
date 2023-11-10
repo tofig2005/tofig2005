@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tofig2005
+- 👀 I’m interested in learning full stact web developer
+- 🌱 I’m currently learning english language, html and css
+- 💞️ I’m looking to collaborate on some websites that can help me
